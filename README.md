@@ -1,2 +1,2 @@
 # Littlelemon
-Full Django-Website for Littlelemon Restaurant 
+API Testing Capstone Project - Built for Meta Back-End Engineering Program
